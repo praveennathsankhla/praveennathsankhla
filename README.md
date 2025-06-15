@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 🎓 BCA 3rd Semester Student | Passionate about Coding & Content Creation
+- 🎓 BCA 4rd Semester Student | Passionate about Coding & Content Creation
 - 💻 Learning **Java, DSA, and Full-Stack Development**
 - 🎒 Love **traveling** and experiencing new things
 
