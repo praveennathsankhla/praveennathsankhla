@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 🎓 BCA 4rd Semester Student | Passionate about Coding & Content Creation
+- 🎓 BCA 4th Semester Student | Passionate about Coding & Content Creation
 - 💻 Learning **Java, DSA, and Full-Stack Development**
 - 🎒 Love **traveling** and experiencing new things
 
@@ -15,7 +15,7 @@
 
 ## 💻 Tech Stack
 
-- **Languages:** Java, C, C++, PHP, JavaScript (Basic)
+- **Languages:** Java, C, C++, PHP, JavaScript (Basic),python
 - **Frontend:** HTML, CSS
 - **Backend:** Learning **Java & PHP for backend development**
 - **Other Skills:** Content Creation, Video Editing, Social Media Strategy
